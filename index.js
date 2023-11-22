@@ -68,6 +68,7 @@ function vota2(){
   MoradoNaranjaVerde.push(2)
   CianMagentaAmarilloNegro.push(4)
   RojoVerdeAzul.push(10)
+  //Los votos deben contarse despues de votar
   vota1()
   vota2()
   vota3()
